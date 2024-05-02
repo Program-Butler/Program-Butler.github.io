@@ -1,15 +1,15 @@
 # Site settings
 
-title: Program Butler
+title: 이지훈 | 인공지능 개발자
 description: A resume about Lee Ji Hoon
 
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://program-butler.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+#baseurl: "/" # the subpath of your site, e.g. /blog
+#url: "https://program-butler.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 
 username: Lee Ji Hoon
-user_description: 인공지능을 활용한 서비스에 관심이 많습니다.
+user_description: 인공지능 기반 서비스를 개발하는 것에 그치지 않고, 그 서비스를 최적으로 제공하기 위해 끊임없이 고민하는 개발자입니다.
 user_title: AI Developer
 email: monaminino@gmail.com
 #twitter_username: lorem_ipsum
